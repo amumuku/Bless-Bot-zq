@@ -6,6 +6,7 @@
 
 
 ## 准备工作
+[去注册https://bless.network/dashboard](https://bless.network/dashboard?ref=5KEMTP)
 1. 需要您安装 [Node.js](https://nodejs.org/)，版本要求在 12 以上。
 2. 小助手目前为 `MIT` 许可证，您可以放心使用和分享。
 
