@@ -6,7 +6,9 @@
 
 
 ## 准备工作
-[去注册https://bless.network/dashboard](https://bless.network/dashboard?ref=5KEMTP)
+[去注册 https://bless.network/dashboard](https://bless.network/dashboard?ref=5KEMTP)
+##TG communicate channel [TG CHANNEL](https://t.co/2f0y7mCn1K)
+##TWITTER communicate channel [X CHANNEL](https://x.com/mooinchain) 
 1. 需要您安装 [Node.js](https://nodejs.org/)，版本要求在 12 以上。
 2. 小助手目前为 `MIT` 许可证，您可以放心使用和分享。
 
